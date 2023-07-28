@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 38e14239e45a10245b107e10ac3349b7
+  productGUID: 6dcc00100ad48cf4ebf820d46fa6f04f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -320,9 +320,9 @@ PlayerSettings:
     m_GraphicsJobs: 1
   m_BuildTargetGraphicsJobMode:
   - m_BuildTarget: PS4Player
-    m_GraphicsJobMode: 1088125472
+    m_GraphicsJobMode: -1328300768
   - m_BuildTarget: XboxOnePlayer
-    m_GraphicsJobMode: 1088125472
+    m_GraphicsJobMode: -1328300768
   m_BuildTargetGraphicsAPIs:
   - m_BuildTarget: AndroidPlayer
     m_APIs: 08000000
